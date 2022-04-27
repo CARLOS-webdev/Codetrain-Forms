@@ -1,0 +1,131 @@
+ body{
+     background-color: #E3EDFD;
+     /* text-decoration: solid; */
+     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     margin-left: 500px;
+     margin-right: 500px;
+     
+ }
+
+ .head {
+     border-top: 15px solid blue;
+     border-radius: 8px;
+     background-color: white;
+     padding: 2%;
+
+ }
+
+ .email{
+     background-color: white;
+     border-radius: 8px;
+     padding: 10%;
+     margin-top: 3px;
+     
+ }
+
+ .fullname{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .phonenumber{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .nxt{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .fees{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+
+ }
+
+ .pay{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .location{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .current{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .join{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+ .hear{
+    background-color: white;
+    border-radius: 8px;
+    padding: 8%;
+ }
+
+input{
+    margin-bottom: 30px;
+}
+
+input[type="text"]{
+    border: none;
+    background:none;
+    outline-color:none;
+    height: 40px;
+    border-bottom: 1px solid grey;
+    width: 100%;
+}
+
+progress { 
+    width: 30%;
+    height: 10px;
+    border: 1px solid green;
+    border-radius: 15px;
+    margin-left: 59px;
+    margin-top: 40px;
+     }
+
+    button{
+        color:white;
+        background-color: blue;
+        border-radius: 5px;
+        height: 30px;
+        width: 15%;
+        margin-top: 15px;
+    }
+   
+    .warning{
+        font-size: smaller;
+        margin-top: 0px;
+    }
+
+    .form{
+        color: blue;
+        margin-left: 400px;
+    }
+
+.google{
+    margin-left: 150px;
+    font-size: x-large;
+}
+
+.terms{
+    font-size: x-small;
+    margin-left: 200px;
+}
+
